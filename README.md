@@ -8,4 +8,4 @@ Reusable JavaScript playground for testing examples.
 3. Click "Run Example"
 
 ## StackBlitz Link
-https://stackblitz.com/github/pramodpatil/js-playground
+https://stackblitz.com/github/pramodpatil/js-playground-agent
